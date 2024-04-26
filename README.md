@@ -7,4 +7,4 @@ Sometimes when you're coding a web application, you'll need to be able to accept
 
 In this practice project, you'll learn basic regular expressions, template literals, the addEventListener() method, and more.
 
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-form-validation-by-building-a-calorie-counter 
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-form-validation-by-building-a-calorie-counter/step-1
